@@ -19,5 +19,5 @@
 
 ### 目录
 
-- [计科操作系统-22春](https://github.com/XDU-awesome-cs/awesome-cs/tree/main/CS_OS_22Spring/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A)
+- [计科操作系统-22春](https://github.com/XDU-awesome-cs/awesome-cs/tree/main/CS_OS_22Spring)
 - 
