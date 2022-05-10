@@ -5,9 +5,7 @@
 
 ## 项目介绍
 
-本项目受[上海交通大学计算机系本科（编程）作业](https://github.com/SJTU-CSE/awesome-cs)启发，旨在收集西电计算机相关专业本科阶段的各种资料。项目目前还在建设中。
-
-应该以什么形式贡献？还没想好。目前的文件按照院系-课程名字-时间命名。
+本项目受[上海交通大学计算机系本科（编程）作业](https://github.com/SJTU-CSE/awesome-cs)启发，旨在收集西电计算机相关专业的本科作业与实验报告。项目目前还在建设中。
 
 ## 学术诚信
 
@@ -21,3 +19,5 @@
 
 ### 目录
 
+- [计科操作系统-22春](https://github.com/XDU-awesome-cs/awesome-cs/tree/main/CS_OS_22Spring/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A)
+- 
