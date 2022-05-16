@@ -32,4 +32,4 @@
 ### 操作系统实验
 
 - [YJMSTR @ 2022](https://github.com/XDU-awesome-cs/awesome-cs/tree/main/CS_OS_22Spring)
-- 
+- [Wings @ 2022](https://github.com/WingsZeng/XDU-OS-Lab)
